@@ -1,0 +1,12 @@
+.card {
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+}
+
+.post-list-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
